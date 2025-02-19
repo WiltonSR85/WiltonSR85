@@ -1,6 +1,11 @@
 ### Olá! Eu sou Wilton Silva Rodrigues, e estou me graduando em Análise e Desenvolvimento de Sistemas no [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/).
 
-![Wilton GitHub stats](https://github-readme-stats.vercel.app/api?username=WiltonSR85&show_icons=true&theme=radical)
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=WiltonSR85&show_icons=true&theme=radical" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WiltonSR85&layout=compact&theme=radical" height="200">
+</div>
+
+
 
 ## Tecnologias 
 
